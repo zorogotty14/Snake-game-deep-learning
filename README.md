@@ -113,7 +113,8 @@ python agent.py
 ```
 
 ### Repository Structure
-agent.py: Contains the main training loop and the Agent class.
-helper.py: Contains helper functions for plotting training progress.
-model.py: Contains the neural network model and trainer class.
-snake_gameai.py: Contains the Snake game logic and environment.
+
+- `agent.py`: Contains the main training loop and the Agent class.
+- `helper.py`: Contains helper functions for plotting training progress.
+- `model.py`: Contains the neural network model and trainer class.
+- `snake_gameai.py`: Contains the Snake game logic and environment.
