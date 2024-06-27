@@ -1,6 +1,5 @@
 # Snake-game-deep-learning
 
-# Snake-game-deep-learning
 
 # How to Teach AI to Play Games: Deep Reinforcement Learning
 
